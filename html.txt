@@ -1,0 +1,12 @@
+HTML 코드
+
+<strong></strong> 굵게
+<u></u> 언더라인
+<br><br> 자동줄바꿈
+<p></p> 한문단 단락띄우기 ( 정보로서 가치)
+<p style="margin-top:45;"
+
+3번째가 만큼 중요한 제목이다란느 정보가 표시 
+<h3>리나천재</h3>
+
+<img src="seaveiw.jpg" width=100%> 이미지삽입 태그, 속성
